@@ -1,5 +1,10 @@
 # 🧑🏻‍💻 About Me:
-🔭 I’m currently working on improving my skills in Python, Java, and C++ by developing software projects that challenge my problem-solving abilities and deepen my understanding of each language.<br>🌱 I’m currently learning advanced algorithms and data structures to enhance my problem-solving skills.<br> I’m looking to collaborate on innovative software engineering projects, especially in AI, machine learning, and web development.<br>🤔 I’m looking for help with expanding my knowledge in cloud computing and DevOps tools.<br>💬 Ask me about Python, C++, and creating educational software for adaptive learning.<br>📫 How to reach me: ze_zepedajf@outlook.com
+🔭 I'm currently building production-grade AI agents, full-stack platforms, and logistics tools under my freelance brand Yantissimo — working with WhatsApp Business API, CRM/ERP systems, and POS platforms for SME clients.
+🌱 I'm deepening my expertise in LLM architectures (LangGraph, RAG pipelines, pgvector), operations research (VRP, linear programming, MILP), and distributed systems design.
+🤝 I'm open to collaborating on AI-powered SaaS, data engineering pipelines, and developer tooling — especially projects with real business impact in Latin American markets.
+🤔 Looking to expand into MLOps, infrastructure-as-code, and cloud-native deployments at scale.
+💬 Ask me about Next.js, Node.js/TypeScript, PostgreSQL + pgvector, WhatsApp automation, and full-stack AI product development.
+📫 How to reach me: ze_zepedajf@outlook.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/j-felipe-zepeda-90704a25a/)) 
